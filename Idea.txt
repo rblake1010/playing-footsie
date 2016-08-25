@@ -1,0 +1,48 @@
+Who:
+
+Anthony
+Richard
+
+
+What:
+
+Playing Footsie
+
+
+
+Where:
+
+?
+
+
+When:
+
+Ongoing 
+
+
+Why:
+
+Trying develop skills and learn the Mern Stack
+
+
+How:
+
+Jade/Pug
+Node.JS
+Express
+MongoDB
+React/Angular
+
+
+
+Features:
+
+Goal Tracking - Player position, Scoring player, Assisting player, Defended vs Undefended, Video Footage
+Game Tracking - Player Participation, Team going against
+Schedule - Upcoming Games, Player Enrollment
+Team Formation - ?
+Player Profile - image, position, number
+
+Cool to Use: 
+HTML5 - Local Storage, Session Storage, Drag and Drop Feature
+LAMBDA - Amazon Technology
